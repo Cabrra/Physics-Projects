@@ -1,0 +1,9 @@
+﻿  Physics.cpp
+  MathLib.cpp
+f:\users\jake\github\physics-projects\4.velocityverlet\point_mass_velocity_verlet\mathlib.cpp(44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  GameWindows.cpp
+  Game3DModel.cpp
+  Game.cpp
+  Generating Code...
+Game.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Point_Mass_Velocity_Verlet.vcxproj -> F:\Users\Jake\GitHub\Physics-Projects\4.VelocityVerlet\Point_Mass_Velocity_Verlet\Debug\Point_Mass_Velocity_Verlet.exe
