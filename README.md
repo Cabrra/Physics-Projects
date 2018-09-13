@@ -1,7 +1,7 @@
 Physics Projects
 ================
 
-![physics](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/physics/bouncingBall.png)
+![physics](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/physics/bouncingBall.png?token=AI_RbdFczM54X2aALG8H-N4E0KrhzltOks5bo4OgwA%3D%3D)
 
 ## Overview
 
@@ -30,7 +30,7 @@ The Physics course provided concepts in physics through 3-D graphic–environmen
 + 7.Friction Simulation
 	+ This project simulates dynamic and static frictions in the 3 stages: Dynamic(sliding) friction, stable static(dry) friction and unstable static(dry) friction in real-time.
 
-![physics](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/physics/mass.png)
+![physics](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/physics/mass.png?token=AI_RbXNZjVAs8KUScd3lwBucNGsbdk73ks5bo4OiwA%3D%3D)
 
 ## Built With
 
