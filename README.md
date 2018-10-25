@@ -1,7 +1,7 @@
 Physics Projects
 ================
 
-![physics](url:http://github.com/Cabrra/cabrra.github.io/blob/master/Images/physics/bouncingBall.png)
+![physics](http://github.com/Cabrra/cabrra.github.io/blob/master/Images/physics/bouncingBall.png)
 
 ## Overview
 
